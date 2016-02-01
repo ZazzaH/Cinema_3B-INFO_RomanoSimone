@@ -1,0 +1,14 @@
+
+29/01/2016 | 23.42 | 1 | 3B Info Story | C | A1,A2,A3,B4, | 24 euro
+29/01/2016 | 23.43 | 2 | 3B Info Story | C | A1,A2, | 12 euro
+30/01/2016 | 00.08 | 3 | 3B Info Story | B | F12,I12,H14,G16, | 24 euro
+30/01/2016 | 00.10 | 4 | 3B Info Story | B | B2,B7,D7,F7,C12, | 30 euro
+30/01/2016 | 00.12 | 5 | 3B Info Story | B | A1, | 6 euro
+30/01/2016 | 00.13 | 6 | 3B Info Story | A | A2, | 6 euro
+30/01/2016 | 00.14 | 7 | 3B Info Story | A | B2, | 6 euro
+30/01/2016 | 00.16 | 8 | 3B Info Story | C | D1, | 6 euro
+30/01/2016 | 00.17 | 9 | 3B Info Story | A | A1, | 6 euro
+30/01/2016 | 00.18 | 10 | 3B Info Story | A | A2, | 6 euro
+30/01/2016 | 00.20 | 11 | 3B Info Story | A | A1, | 6 euro
+30/01/2016 | 00.24 | 12 | 3B Info Story | A | A2, | 6 euro
+30/01/2016 | 00.25 | 13 | 3B Info Story | C | B1, | 6 euro
